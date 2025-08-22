@@ -2,3 +2,5 @@ x = a+b+c
 y=a-c
 z=a/c
 m= a*b
+avg = a+b/2
+percent = a%b
