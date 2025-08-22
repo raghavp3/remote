@@ -4,3 +4,4 @@ z=a/c
 m= a*b
 x=a+b
 avg = a+b/2
+percentage = a%b
